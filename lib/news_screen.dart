@@ -37,7 +37,7 @@ class _NewsScreenState extends State<NewsScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('News dsfsdfs '),
+        title: Text('News'),
       ),
       body: ListView.separated(
         itemCount: newsFromServer.length,
