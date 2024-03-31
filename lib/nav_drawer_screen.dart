@@ -12,7 +12,7 @@ class _NavDrawerScreenState extends State<NavDrawerScreen> {
 
   final List<Widget> widgets = [
     Text(
-      'Index 0: Home',
+      'Index 0: Test',
       style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
     ),
     Text(
