@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:intl/date_symbol_data_local.dart';
-import 'package:lesson4/bottom_screen.dart';
-import 'package:lesson4/horizontal_list.dart';
 import 'package:lesson4/nav_drawer_screen.dart';
 
 void main() {
